@@ -9,5 +9,7 @@ namespace ControleAnimais
     internal class Animal
     {
         private string _tipoAnimal;
+
+        /**/
     }
 }
