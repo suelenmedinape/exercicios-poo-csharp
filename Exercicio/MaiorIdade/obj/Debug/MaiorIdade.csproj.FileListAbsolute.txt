@@ -1,0 +1,7 @@
+C:\Projetos - C#\Exercicio\MaiorIdade\bin\Debug\MaiorIdade.exe.config
+C:\Projetos - C#\Exercicio\MaiorIdade\bin\Debug\MaiorIdade.exe
+C:\Projetos - C#\Exercicio\MaiorIdade\bin\Debug\MaiorIdade.pdb
+C:\Projetos - C#\Exercicio\MaiorIdade\obj\Debug\MaiorIdade.csproj.AssemblyReference.cache
+C:\Projetos - C#\Exercicio\MaiorIdade\obj\Debug\MaiorIdade.csproj.CoreCompileInputs.cache
+C:\Projetos - C#\Exercicio\MaiorIdade\obj\Debug\MaiorIdade.exe
+C:\Projetos - C#\Exercicio\MaiorIdade\obj\Debug\MaiorIdade.pdb
