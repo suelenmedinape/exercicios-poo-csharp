@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Projetos - C#\\Exercicio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C78C23F-1F05-4CD1-95D5-5DCFA97CA6B5}|ControleAnimais\\ControleAnimais.csproj|c:\\projetos - c#\\exercicio\\controleanimais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C78C23F-1F05-4CD1-95D5-5DCFA97CA6B5}|ControleAnimais\\ControleAnimais.csproj|solutionrelative:controleanimais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C78C23F-1F05-4CD1-95D5-5DCFA97CA6B5}|ControleAnimais\\ControleAnimais.csproj|c:\\projetos - c#\\exercicio\\controleanimais\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C78C23F-1F05-4CD1-95D5-5DCFA97CA6B5}|ControleAnimais\\ControleAnimais.csproj|solutionrelative:controleanimais\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC750A08-DA09-4BCD-8B91-58BF1FBBEFB2}|MaiorIdade\\MaiorIdade.csproj|c:\\projetos - c#\\exercicio\\maioridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC750A08-DA09-4BCD-8B91-58BF1FBBEFB2}|MaiorIdade\\MaiorIdade.csproj|solutionrelative:maioridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,30 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Projetos - C#\\Exercicio\\ControleAnimais\\Animal.cs",
+              "RelativeDocumentMoniker": "ControleAnimais\\Animal.cs",
+              "ToolTip": "C:\\Projetos - C#\\Exercicio\\ControleAnimais\\Animal.cs",
+              "RelativeToolTip": "ControleAnimais\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:26:44.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos - C#\\Exercicio\\ControleAnimais\\Program.cs",
+              "RelativeDocumentMoniker": "ControleAnimais\\Program.cs",
+              "ToolTip": "C:\\Projetos - C#\\Exercicio\\ControleAnimais\\Program.cs",
+              "RelativeToolTip": "ControleAnimais\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:25:21.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos - C#\\Exercicio\\MaiorIdade\\Program.cs",
               "RelativeDocumentMoniker": "MaiorIdade\\Program.cs",
               "ToolTip": "C:\\Projetos - C#\\Exercicio\\MaiorIdade\\Program.cs",
               "RelativeToolTip": "MaiorIdade\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T20:27:43.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Projetos - C#\\Exercicio\\MaiorIdade\\Pessoa.cs",
               "RelativeDocumentMoniker": "MaiorIdade\\Pessoa.cs",
               "ToolTip": "C:\\Projetos - C#\\Exercicio\\MaiorIdade\\Pessoa.cs",
               "RelativeToolTip": "MaiorIdade\\Pessoa.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAewCYAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwCYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T20:29:45.625Z",
               "EditorCaption": ""
