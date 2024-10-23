@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ControleAnimais"
+    "\\ControleAnimais",
+    "\\MaiorIdade"
   ],
-  "SelectedNode": "\\ControleAnimais\\Animal.cs",
+  "SelectedNode": "\\MaiorIdade\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
